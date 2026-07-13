@@ -1,0 +1,3 @@
+interface:
+  display_name: "Electrical Estimating Review"
+  short_description: "Review drawings for scope, materials, conflicts, RFIs, and estimating risks"
