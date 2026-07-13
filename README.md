@@ -65,7 +65,7 @@ Natural-language requests are also supported. For example, “prepare a bill of 
 ### Full estimating review
 
 ```text
-Guild's scope is electrical and communications rough-in and cabling.
+Our scope is electrical and communications rough-in and cabling.
 Review the attached drawings and specifications.
 /full-review
 ```
@@ -89,7 +89,7 @@ Do not prepare an RFI until the specifications and related schedules have been c
 ### Rough-in readiness
 
 ```text
-Guild is responsible for conduit rough-in for BAS and security data outlets.
+We are responsible for conduit rough-in for BAS and security data outlets.
 Review the attached documents and confirm whether enough information exists to start rough-in.
 /rough-in-review
 ```
